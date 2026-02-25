@@ -1,0 +1,23 @@
+•	JavaScript Introduction, 
+•	Internal, External  javascript
+•	Data
+•	,Loops Js
+•	Function
+•	Function Types
+•	Js Operators
+•	If Statements
+•	Switch return
+•	Function with parameters
+•	Arrow Functions 
+•	Calculator Projects using Function 
+•	Object 
+•	Arrays Js
+•	Array Methods 
+•	Array Map, Filter, Reduce
+•	Maths Methods 
+•	Prototypes 
+•	Try and catch 
+•	DOM(Document Object) getElementById, GetElementsByName, getElementsByTagName, InnerHtml, InnerText property Js
+•	Validation – Form validation, Email validation Js
+•	OOPs – JS Class, Object, Constructor,Methods Js Inheritance, Encapsulation, Polymorphism, Abstraction
+
