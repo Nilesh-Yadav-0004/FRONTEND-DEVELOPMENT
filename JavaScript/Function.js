@@ -1,6 +1,6 @@
 /* Sum of two Numbers */
 
-// Subtraction 
+// Subtraction of two number
 
 // function sub(a,b){
 //     return a-b;
@@ -10,11 +10,13 @@
 
 // console.log(sub(10,22))
 
-// function mult(a,b){
-//     return a*b;
-// }
+// Multiplication of two number
 
-// console.log(mult(10,20))
+function mult(a,b){
+    return a*b;
+}
+
+console.log(mult(10,20))
 
 // function add(a,b,c){
 //     return a+b+c;
