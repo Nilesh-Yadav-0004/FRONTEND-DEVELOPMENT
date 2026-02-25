@@ -1,10 +1,12 @@
-// //  Sub
+/* Sum of two Numbers */
 
-// function sub(a,b){
-//     return a-b;
-// }
+Subtraction 
 
-// console.log(sub(3,5))
+function sub(a,b){
+    return a-b;
+}
+
+console.log(sub(3,5))
 
 // console.log(sub(10,22))
 
@@ -20,9 +22,9 @@
 
 // console.log(add(10,20,50))
 
-function div(a,b){
-    return a/b;
-}
+// function div(a,b){
+//     return a/b;
+// }
 
-console.log(div(50,5))
+// console.log(div(50,5))
 
