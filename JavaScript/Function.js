@@ -1,12 +1,12 @@
 /* Sum of two Numbers */
 
-Subtraction 
+// Subtraction 
 
-function sub(a,b){
-    return a-b;
-}
+// function sub(a,b){
+//     return a-b;
+// }
 
-console.log(sub(3,5))
+// console.log(sub(3,5))
 
 // console.log(sub(10,22))
 
