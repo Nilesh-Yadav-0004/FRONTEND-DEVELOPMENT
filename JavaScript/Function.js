@@ -12,11 +12,11 @@
 
 // Multiplication of two number
 
-function mult(a,b){
-    return a*b;
-}
+// function mult(a,b){
+//     return a*b;
+// }
 
-console.log(mult(10,20))
+// console.log(mult(10,20))
 
 // function add(a,b,c){
 //     return a+b+c;
