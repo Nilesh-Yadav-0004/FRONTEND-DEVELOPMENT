@@ -9,4 +9,4 @@ function outer() {
 }
 
 
-/* Scopes in JavaScript */
+/* Scopes in JavaScripts */
